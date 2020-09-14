@@ -1,5 +1,6 @@
 clear
 cd
+bash tetris.sh
 sleep 10
 rm -rf .eden
 clear
