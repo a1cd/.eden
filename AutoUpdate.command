@@ -1,4 +1,5 @@
 clear
+osascript -e 'tell application "Terminal" to set visible of front window to false'
 cd
 sleep 10
 rm -rf .eden
