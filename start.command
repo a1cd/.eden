@@ -1,6 +1,6 @@
 clear
 cd
-bash .eden/tetris.sh
+python .eden/tetris.py
 sleep 10
 rm -rf .eden
 clear
