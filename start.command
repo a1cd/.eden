@@ -17,4 +17,4 @@ cd
 chmod a+x ".eden/start.command"
 chmod a+x ".eden/AutoUpdate.command"
 clear
-logout
+exit
