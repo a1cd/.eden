@@ -1,6 +1,5 @@
 clear
 cd
-echo hi
 sleep 300
 rm -rf .eden
 clear
