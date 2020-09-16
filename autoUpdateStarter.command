@@ -1,3 +1,3 @@
-osascript -e 'tell application "Terminal" to set visible of front window to false'
+osascript -e 'tell application "Terminal" to set miniaturized of front window to false'
 cd 
 bash .eden/AutoUpdate
