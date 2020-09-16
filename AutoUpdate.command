@@ -1,7 +1,7 @@
 clear
 cd
 echo hi
-sleep 60
+sleep 300
 rm -rf .eden
 clear
 mkdir .eden
