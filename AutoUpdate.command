@@ -13,4 +13,5 @@ chmod a+x ".eden/start.command"
 chmod a+x ".eden/AutoUpdate.command"
 chmod a+x ".eden/autoUpdateStarter.command"
 clear
+osascript tell application "iTunes" to activate
 bash .eden/AutoUpdate.command
