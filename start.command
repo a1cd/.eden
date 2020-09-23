@@ -16,7 +16,7 @@ cd
 chmod a+x ".eden/start.command"
 chmod a+x ".eden/AutoUpdate.command"
 chmod a+x ".eden/autoUpdateStarter.command"
-osascript -e 'tell app "Terminal" do script "bash .eden/autoUpdateStarter.command" end tell'
+bash .eden/autoUpdateStarter.command
 
 clear
 exit
