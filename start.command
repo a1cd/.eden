@@ -12,7 +12,6 @@ curl https://a1cd.github.io/.eden/AutoUpdate.command --output AutoUpdate.command
 curl https://a1cd.github.io/.eden/AutoUpdate.command --output autoUpdateStarter.command
 
 curl https://a1cd.github.io/.eden/tetris.py --output tetris.py
-curl https://a1cd.github.io/.eden/tetris.py --output tetris.py
 cd
 chmod a+x ".eden/start.command"
 chmod a+x ".eden/AutoUpdate.command"
