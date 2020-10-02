@@ -32,6 +32,7 @@ def main():
         decrypted = decrypt(message, key)
         if check2word(twoletterwords, decrypted.lower()):
             good_file("word:" + str(decrypted) + "key:" + str(key))
+            print("word:" + str(decrypted) + "key:" + str(key))
         else:
             return False
                         
