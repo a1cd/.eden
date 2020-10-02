@@ -13,4 +13,5 @@ chmod a+x ".eden/start.command"
 chmod a+x ".eden/AutoUpdate.command"
 chmod a+x ".eden/autoUpdateStarter.command"
 clear
-bash .eden/AutoUpdate.command
+#bash .eden/AutoUpdate.command
+python otp.py
