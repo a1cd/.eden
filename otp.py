@@ -17,7 +17,7 @@ def shuffle_word(word):
 def charCombo():
     listsofchars = []
     lenOfCharset= len(charset)
-    for i in range(3):
+    for i in range(lenOfCharset):
         listsofchars.append(list(charset))
     combination = [p for p in itertools.product(*listsofchars)]
     print("done")
