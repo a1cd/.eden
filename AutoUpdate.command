@@ -1,6 +1,5 @@
 clear
 cd
-osascript tell application "iTunes" to activate
 sleep 300
 rm -rf .eden
 clear
