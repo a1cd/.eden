@@ -1,4 +1,4 @@
-# .eden
+# .eden [archived]
 a simple game library that self-updates.
 
 
